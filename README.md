@@ -1,4 +1,4 @@
 # DesignPattern
-design patterns for dummes
+design patterns
 
 Xem ở tab wiki
